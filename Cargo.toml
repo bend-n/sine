@@ -1,0 +1,10 @@
+[package]
+name = "sine"
+version = "0.1.0"
+edition = "2021"
+description = "cos/sin"
+repository = "https://github.com/bend-n/sine"
+license = "MIT"
+
+[dependencies]
+umath = "0.0.3"
